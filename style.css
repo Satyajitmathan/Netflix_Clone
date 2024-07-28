@@ -230,8 +230,3 @@ footer .questions{
     padding: 34px 0;
 }
 
-@media (max-width: 1050px) {
-    .secimg video{
-        overflow: hidden;
-    }
-}
