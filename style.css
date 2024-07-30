@@ -151,14 +151,14 @@ nav button{
     position: relative;
 }
 .secimg img{
-    width: 37vw;
+    width: 36vw;
     position: relative;
     z-index: 10;
     
     }
 .secimg video{
     position: absolute;
-    top: 73px;
+    top: 98px;
     right: 0px;
     left: 63px;
     width:360px;
